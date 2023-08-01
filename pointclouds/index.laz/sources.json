@@ -1,0 +1,1 @@
+{"bounds":{"min":[675756.77,9572745.26,12.98],"max":[676894.02,9573951.64,154.56]},"projection":"+proj=utm +zone=18 +south +datum=WGS84 +units=m +no_defs","sources":[{"name":"termico.las","points":2512387,"bounds":{"min":[675756.77,9572745.26,12.98],"max":[676894.02,9573951.64,154.56]}}]}
